@@ -18,7 +18,6 @@
 ## 🧰 Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
- <br/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.integrationdevelopers.com/media/2021/05/csharp-color.jpg" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.raddevelopers.com/wp-content/uploads/2016/01/c-lang.png" alt="c" height="40" style="vertical-align:top; margin:4px">
@@ -26,6 +25,7 @@
  <img src="https://th.bing.com/th/id/R.45a33fc558faf7b5343b144f2efa9468?rik=FBiUhbkRkQ2eNQ&riu=http%3a%2f%2fjsxcode.com%2fcode%2fimg%2flogo_html.png&ehk=fH8GgrRgo2wM5KaxXwlJGgc%2bWjIWakayJWREjXbzVLg%3d&risl=&pid=ImgRaw&r=0" alt="html" height="40" style="vertical-align:top; margin:4px">
  <img src="https://avatars1.githubusercontent.com/u/26101386?s=400&v=4 " alt="css" height="40" style="vertical-align:top; margin:4px">
 </p>
+ <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maha-Yehia&show_icons=true&locale=en&layout=compact" alt="Maha-Yehia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maha-Yehia&show_icons=true&locale=en" alt="Maha-Yehia" /></p>
