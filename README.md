@@ -1,7 +1,7 @@
 <h1 align="center">Hi there , I'm Maha Yehia</h1>
 <p align="center">
 
-<b align="center"> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<b align="center"> Let's Connect..!</b><img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <h3 align="left">- 👩‍🎓 I’m a student at 9-Professional web development &BI track at information technology institute (ITI).</h3>
 <p align="left" display="inline"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia=Profile%20views&color=0e75b6&style=flat" alt="Maha-Yehia" /> </p>
