@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia=Profile%20views&color=0e75b6&style=flat" alt="Maha-Yehia" /> </p>
 -🌱 I’m currently learning .Net  
 <br/>
--📫 My Email: maha5yehia@gmail.com if you want to ask me about anything
+-📫 My Email: **maha5yehia@gmail.com** if you want to ask me about anything
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
