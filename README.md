@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Maha Yehia</h1>
 
-<b  style="font-size:30px" align="center"> Let's Connect..!</b>
+<b  style="font-size:large" align="center"> Let's Connect..!</b>
 <img style="text-align:center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <h3 align="left">- 👩‍🎓 I’m a student at 9-Professional web development &BI track at information technology institute (ITI).</h3>
