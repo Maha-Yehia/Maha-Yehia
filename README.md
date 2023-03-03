@@ -4,18 +4,7 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
 
-<ul>
-
-
-<a href="https://www.linkedin.com/in/raoufalaadin/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: RaoufAlaadin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-
-
-</ul>
 <h3 align="center">- 👩‍🎓 I’m a student at 9-Professional web development &BI track at information technology institute (ITI).</h3>
 <p align="left" display="inline"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia=Profile%20views&color=0e75b6&style=flat" alt="Maha-Yehia" /> </p>
 -🌱 I’m currently learning .Net  
