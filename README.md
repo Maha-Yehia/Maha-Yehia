@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Maha Yehia</h1>
 <h3 align="center">- 👩‍🎓 I’m a student at 9-Professional web development &BI track at information technology institute (ITI).</h3>
 <p align="left" display="inline"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia=Profile%20views&color=0e75b6&style=flat" alt="Maha-Yehia" /> </p>
-<p align="left" display="inline"> <img src="(https://img.shields.io/github/followers/Maha-Yehia?label=Follow&style=social)](https://github.com/Maha-Yehia)" alt="Maha-Yehia" /> </p>
 - 🌱 I’m currently learning .Net  
 - 📫 My Email: maha5yehia@gmail.com if you want to ask me about anything
 <h3 align="left">Connect with me:</h3>
