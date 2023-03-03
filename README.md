@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Maha Yehia
 ![](https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia)
 [![Github](https://img.shields.io/github/followers/Hebaallah61?label=Follow&style=social)](https://github.com/Maha-Yehia)
-- ## I’m a Civil Engineer interesting in programming graduated from Cairo university 
-- 🌱 I’m currently learning .Net 
+- ## I’m a student at 9-Professional web development &BI track at information technology institute (ITI) 
+- 🌱 I’m currently learning .Net  
 - 📫 My Email: maha5yehia@gmail.com if you want to ask me about anything
 ## ✉️ Find me on:
 
@@ -27,10 +27,10 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hebaallah&theme=codeSTACKr&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maha-yehia&theme=codeSTACKr&show_icons=true)
 
 
 <!---
-Hebaallah61/Hebaallah61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maha-Yehia/Maha-Yehia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
