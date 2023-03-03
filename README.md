@@ -5,10 +5,10 @@
 
 <h3 align="left">- 👩‍🎓 I’m a student at 9-Month professional web development &BI track at information technology institute(ITI)</h3>
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia=Profile%20views&color=0e75b6&style=flat" alt="Maha-Yehia" /> </p>
-<p>- 🌱 I’m currently learning .Net </p> 
-<br/>
-<p>- 📫 My Email: **maha5yehia@gmail.com** if you want to ask me about anything</p> 
+- 🌱 I’m currently learning .Net 
+- 📫 My Email: **mailto:maha5yehia@gmail.com** if you want to ask me about anything .
 <h3 align="left">Connect with me:</h3>
+
 
 <p align="left">
  <a href="https://github.com/Maha-Yehia" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/d20181791a7d3716b202e8c3549c20cd5d435bb6bbb2556fbcf99f7841f48d5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" alt="github" height="40" style="vertical-align:top; margin:4px"> </a>
