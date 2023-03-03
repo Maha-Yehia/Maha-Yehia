@@ -1,5 +1,4 @@
-<h1 align="center">Hi there , I'm Maha Yehia</h1>
-<p align="center">
+<h1 align="center">Hi there 👋 I'm Maha Yehia</h1>
 
 <b align="center"> Let's Connect..!</b><img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
