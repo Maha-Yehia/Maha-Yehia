@@ -5,8 +5,8 @@
 
 <h3 align="left">- 👩‍🎓 I’m a student at 9-Month professional web development &BI track at information technology institute(ITI)</h3>
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia=Profile%20views&color=0e75b6&style=flat" alt="Maha-Yehia" /> </p>
-- 🌱 I’m currently learning .Net 
-- 📫 My Email: **mailto:maha5yehia@gmail.com** if you want to ask me about anything .
+<p>- 🌱 I’m currently learning .Net </p>
+<p>- 📫 My Email: maha5yehia@gmail.com if you want to ask me about anything.</p>
 <h3 align="left">Connect with me:</h3>
 
 
