@@ -2,7 +2,7 @@
 
 <h3 align="left">- 👩‍🎓 I’m a student at 9-Month professional web development &BI track at information technology institute(ITI)</h3>
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia=Profile%20views&color=0e75b6&style=flat" alt="Maha-Yehia" /> </p>
-- 📫 How to reach me maha5yehia@gmail.com
+- 📫 How to reach me <a href="mailto:maha5yehia@gmail.com">maha5yehia@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
