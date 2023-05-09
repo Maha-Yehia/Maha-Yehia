@@ -1,12 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Maha Yehia</h1>
 
-<b style="font-size:40px;" > Let's Connect..!</b>
-<img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"/>
-
 <h3 align="left">- 👩‍🎓 I’m a student at 9-Month professional web development &BI track at information technology institute(ITI)</h3>
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Maha-Yehia.Maha-Yehia=Profile%20views&color=0e75b6&style=flat" alt="Maha-Yehia" /> </p>
 <p>- 🌱 I’m currently learning .Net </p>
-<p>- 📫 My Email: maha5yehia@gmail.com if you want to ask me about anything.</p>
+- 📫 How to reach me **maha5yehia@gmail.com**
 <h3 align="left">Connect with me:</h3>
 
 
@@ -14,7 +11,6 @@
  <a href="https://github.com/Maha-Yehia" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/d20181791a7d3716b202e8c3549c20cd5d435bb6bbb2556fbcf99f7841f48d5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" alt="github" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/maha-yehia-4358991b5/" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/8c244a7a7b8a6e767d241c9a6c5e1b5e13ea693770c52bbc3fe564ba4044a4c9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3137342f3137343835372e706e67" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.hackerrank.com/maha5yehia"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://leetcode.com/maha5yehia/"> <img src="https://scontent.fcai19-3.fna.fbcdn.net/v/t39.30808-6/305317853_616467910000160_3824851731065368025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_aid=0&_nc_ohc=CkOClH2zzAAAX_Ogap8&_nc_ht=scontent.fcai19-3.fna&oh=00_AfA6QqKLLMDhRPFw-iVFqANpwUXTgNpJukCtodL6TW9ePw&oe=6407291B" alt="LeetCode" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
